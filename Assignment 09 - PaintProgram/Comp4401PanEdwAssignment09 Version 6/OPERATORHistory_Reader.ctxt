@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OPERATORHistory_Reader()
+comment0.text=\r\n\ \ \ \ \ \ CONSTRUCTOR\ METHOD\r\n
+comment1.params=input
+comment1.target=void\ setDirectory(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ SETTER\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ Set\ the\ directory\ of\ the\ file\ to\ be\ read.\r\n
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\r\n\ \ \ \ \ \ SETTER\ METHOD\ \ \ \r\n\ \ \ \ \ \ \ \ \ \ Clear\ data\r\n
+comment3.params=
+comment3.target=void\ read()
+comment3.text=\r\n\ \ \ \ \ \ SCANNER\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ Read\ the\ file,\ if\ possible.\r\n
+comment4.params=
+comment4.target=DRAWData\ getData()
+comment4.text=\r\n\ \ \ \ \ \ COLLECTOR\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ Return\ DRAWData\ object\ data\r\n
+comment5.params=input
+comment5.target=DRAWData\ addData(DRAWData)
+comment5.text=\r\n\ \ \ \ \ \ COLLECTOR\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ Recompile\ DRAWData\ data\ by\ adding\ this\ DRAWData\ after\ input\ DRAWData\r\n
+numComments=6

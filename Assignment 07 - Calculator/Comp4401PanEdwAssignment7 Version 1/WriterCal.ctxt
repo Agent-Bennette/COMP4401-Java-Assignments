@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WriterCal()
+comment0.text=\r\n\ \ \ \ \ \ Constructor\ -\ Start\ the\ class.\r\n
+comment1.params=input
+comment1.target=void\ set(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ SETTER\ Method\ -\ Set\ up\ the\ formula\ (A\ string)\ that\ needs\ to\ be\ printed.\r\n\ \ \ \ \ \ input\ \ \ \:\ \ \ FORMULA\ as\ String\r\n\ \ \ \ \ \ output\ \ \:\ \ \ void\r\n
+comment2.params=
+comment2.target=void\ write()
+comment2.text=\r\n\ \ \ \ \ \ WRITER\ Method\r\n\ \ \ \ \ \ input\ \ \ \:\ \ \ void\ (\ formula\ should\ already\ be\ included\ in\ the\ program\ )\r\n\ \ \ \ \ \ output\ \ \:\ \ \ CLASS\ Calculation\r\n
+numComments=3

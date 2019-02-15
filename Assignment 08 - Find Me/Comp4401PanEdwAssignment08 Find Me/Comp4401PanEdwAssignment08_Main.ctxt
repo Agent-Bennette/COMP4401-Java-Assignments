@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ MAIN\ METHOD\r\n
+comment1.params=won
+comment1.target=void\ SRMUpdate(boolean)
+comment1.text=\r\n\ \ SUBROUTINE\ METHOD\ -\ Update\ Game\ Data\r\n\ \ \ \ \ \ input\ \ \ \:\ \ \ void\r\n\ \ \ \ \ \ output\ \ \:\ \ \ void\r\n
+comment2.params=xCoord\ yCoord
+comment2.target=double\ MMTargetDistance(int,\ int)
+comment2.text=\r\n\ \ MATH\ METHOD\ -\ PythInteger\r\n\ \ \ \ \ \ input\ \ \ \:\ \ \ XCoordinate\ and\ YCoordinate\r\n
+comment3.params=input
+comment3.target=int\ MMRoundToInt(double)
+comment3.text=\r\n\ \ MATH\ METHOD\ -\ Round\ Double\ to\ Int\r\n\ \ \ \ \ \ input\ \ \ \:\ \ \ Double\ Value\r\n\ \ \ \ \ \ output\ \ \:\ \ \ Int\ Value\ (Whole-Rounded\ value\ of\ double)\r\n
+numComments=4

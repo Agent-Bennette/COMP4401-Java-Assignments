@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Result()
+comment0.text=\r\n\ \ \ \ \ \ METHOD\ -\ CONSTRUCTOR\r\n
+comment1.params=newText\ newStatus
+comment1.target=void\ updateText(java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ \ \ METHOD\ ACTIVE\ -\ Update\ the\ displayed\ text\r\n
+comment2.params=
+comment2.target=java.lang.String\ get()
+comment2.text=\r\n\ \ \ \ \ \ METHOD\ ACTIVE\ -\ Get\ String\ stored\r\n
+comment3.params=
+comment3.target=int\ MSRExponentFinder()
+comment3.text=\r\n\ \ \ \ \ \ METHOD\ SUBROUTINE\ -\ Exponent\ (aka\ X\ value)\ finder\ for\ formula\ of\ A*10^x\r\n
+comment4.params=maxDecimals
+comment4.target=void\ MSRRemoveExtra(int)
+comment4.text=\r\n\ \ \ \ \ \ METHOD\ SUBROUTINE\ -\ Remove\ Extra\ String\r\n
+comment5.params=
+comment5.target=int\ MSRLengthOfWholes()
+comment5.text=\r\n\ \ \ \ \ \ METHOD\ SUBROUTINE\ -\ Find\ length\ of\ whole\ number\r\n
+comment6.params=decimals\ limit
+comment6.target=double\ MSRRoundDoubleNoCut(double,\ int)
+comment6.text=\r\n\ \ \ \ \ \ METHOD\ SUBROUTINE\ -\ Round\ the\ given\ double\r\n
+comment7.params=
+comment7.target=void\ MSRResultOneWhole()
+comment7.text=\r\n\ \ \ \ \ \ METHOD\ SUBROUTINE\ -\ Scientific\ Display\ -\ Change\ to\ one-digit\ whole\ number\ with\ decimals\r\n
+numComments=8

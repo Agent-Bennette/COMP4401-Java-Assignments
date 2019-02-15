@@ -1,0 +1,261 @@
+fillPoly black 211 256 241 231 263 272
+fillPoly black 263 272 211 255 238 287
+fillPoly black 243 281 257 272 267 290
+fillPoly black 267 290 241 278 252 298
+fillPoly black 252 298 239 281 254 269
+fillOval red 226 249 249 273
+fillOval black 228 249 249 270
+fillOval red 232 249 248 266
+fillOval black 236 248 248 261
+drawLine black 242 268 238 258
+drawLine black 235 267 236 255
+drawLine black 230 256 237 251
+drawLine black 247 262 242 256
+drawLine black 231 261 237 252
+fillPoly black 238 228 228 223 210 251
+fillPoly black 210 251 227 223 209 238
+fillPoly black 213 232 214 222 223 215
+fillPoly black 223 215 223 224 213 233
+fillPoly black 214 221 208 209 217 203
+fillPoly black 217 203 221 215 213 223
+fillPoly black 244 229 265 268 386 207
+fillPoly black 244 229 385 207 371 193
+fillPoly black 234 222 244 224 423 177
+fillPoly black 423 177 235 221 414 176
+fillPoly black 226 213 225 223 306 200
+fillPoly black 306 200 299 197 227 213
+fillPoly black 219 203 222 210 276 200
+fillPoly black 276 200 235 199 219 203
+fillPoly black 299 197 304 200 369 184
+fillPoly black 373 193 377 196 398 186
+fillPoly black 398 186 395 189 376 195
+fillPoly black 397 189 400 183 412 196
+fillPoly black 384 206 265 267 387 211
+fillPoly black 412 196 414 200 398 190
+fillPoly black 375 181 412 174 402 169
+fillPoly black 401 169 377 175 377 182
+fillPoly black 377 182 409 172 380 177
+fillPoly black 375 176 375 182 359 184
+fillPoly black 401 169 391 157 383 157
+fillPoly black 383 157 389 170 402 170
+fillPoly black 382 158 387 169 381 171
+fillPoly black 381 171 378 161 382 157
+fillPoly black 362 180 369 176 365 165
+fillPoly black 365 165 361 180 361 168
+fillPoly black 366 166 370 174 378 172
+fillPoly black 378 172 371 164 365 165
+fillPoly black 372 176 392 170 381 171
+fillPoly black 381 171 372 175 361 181
+fillPoly black 412 176 363 186 242 218
+fillPoly black 263 274 267 271 387 214
+fillPoly black 263 277 269 287 383 220
+fillPoly black 270 287 378 229 377 223
+fillPoly black 265 272 267 270 386 214
+fillPoly black 386 214 384 218 278 266
+fillPoly black 402 184 424 179 416 195
+fillPoly black 416 195 428 187 423 179
+fillPoly black 415 196 417 200 430 193
+fillPoly black 430 193 429 189 417 196
+fillPoly black 427 185 429 190 415 198
+fillPoly black 416 198 413 191 425 189
+fillPoly black 422 179 430 193 433 189
+fillPoly black 434 190 435 203 420 213
+fillPoly black 420 213 419 200 433 191
+fillPoly black 417 201 415 205 419 213
+fillPoly black 412 206 378 223 377 230
+fillPoly black 377 230 417 213 412 206
+fillPoly black 415 212 270 288 264 278
+fillPoly black 356 243 372 246 415 213
+fillPoly black 413 212 415 217 374 242
+fillPoly black 370 247 357 244 343 251
+fillPoly black 343 251 349 253 371 246
+fillPoly black 256 298 269 290 341 254
+fillPoly black 370 247 350 252 355 255
+fillPoly black 373 247 388 236 391 260
+fillPoly black 391 260 379 265 365 252
+fillPoly black 365 252 373 246 389 260
+fillPoly black 388 252 388 237 414 220
+fillPoly black 393 243 387 250 390 260
+fillPoly black 390 260 391 244 407 269
+fillPoly black 398 258 397 237 386 247
+fillPoly black 390 261 382 266 405 271
+fillPoly black 405 271 396 272 382 265
+fillPoly black 382 265 389 262 399 269
+fillPoly black 401 262 415 263 406 267
+fillPoly black 393 243 407 265 398 263
+fillPoly black 397 255 414 264 406 269
+fillPoly black 404 271 399 274 383 265
+fillPoly black 377 197 381 201 396 190
+fillPoly black 396 190 401 194 381 202
+fillPoly black 400 194 403 195 396 198
+fillPoly black 396 198 388 198 399 194
+fillPoly black 383 199 385 202 379 196
+fillPoly black 377 197 383 204 384 199
+fillPoly black 382 201 385 206 383 197
+fillPoly black 386 202 391 200 398 200
+fillPoly black 398 200 386 205 387 203
+fillPoly black 397 200 403 196 410 200
+fillPoly black 410 200 386 204 398 199
+fillPoly black 392 200 387 202 387 207
+fillPoly black 387 207 399 202 391 200
+fillPoly black 408 200 388 208 387 206
+fillPoly black 387 206 391 201 409 200
+fillPoly black 409 200 388 209 386 207
+fillPoly black 382 202 394 192 381 197
+fillPoly black 396 191 401 195 396 197
+fillPoly black 383 200 384 205 377 197
+fillPoly black 385 214 414 202 383 217
+fillPoly black 384 218 413 202 381 217
+fillPoly black 385 211 414 199 414 200
+fillPoly black 406 185 417 198 420 191
+fillPoly black 222 208 225 212 276 200
+fillPoly black 217 205 222 213 217 218
+fillPoly black 225 220 224 213 231 212
+fillPoly black 399 242 401 254 404 251
+fillPoly black 405 251 413 260 400 254
+fillPoly black 411 259 423 256 406 256
+fillPoly black 407 271 416 271 402 274
+fillPoly black 402 274 410 274 416 271
+fillPoly black 407 269 422 269 415 263
+fillPoly black 416 264 430 256 421 269
+fillPoly black 417 263 435 249 428 258
+fillPoly black 422 259 407 263 419 264
+fillPoly black 415 257 422 257 435 246
+fillPoly black 400 246 403 237 403 250
+drawLine black 401 240 412 225 434 210
+drawLine black 412 225 426 214 439 240
+drawLine black 427 213 443 206 445 241
+fillPoly black 422 252 440 240 440 241
+fillPoly black 418 255 439 240 440 243
+fillPoly black 423 252 435 236 438 243
+fillPoly black 438 243 435 236 473 224
+fillPoly black 434 237 471 224 459 224
+fillPoly black 472 224 441 245 437 241
+fillPoly black 440 243 426 268 442 243
+fillPoly black 419 253 425 244 437 235
+fillPoly black 437 235 415 255 426 254
+drawLine black 443 207 453 199 370 341
+drawLine black 417 274 417 283 412 288
+drawLine black 417 283 419 289
+drawLine black 419 289 425 292
+drawLine black 425 292 432 292
+fillPoly black 418 285 426 293 421 291
+fillPoly black 429 265 417 275 437 249
+fillPoly black 429 265 432 255 443 242
+fillPoly black 418 286 433 291 423 292
+fillPoly black 423 292 430 289 438 292
+fillPoly black 436 254 452 239 447 233
+fillPoly black 432 292 439 277 456 265
+fillPoly black 436 292 432 292 445 276
+fillPoly black 439 276 453 268 455 262
+fillPoly black 453 268 470 257 454 263
+fillPoly black 423 269 418 282 417 274
+fillPoly black 419 251 404 255 420 257
+drawLine black 436 295 437 300
+drawLine black 437 300 442 305
+drawLine black 443 305 447 306
+drawLine black 447 306 456 302
+drawLine black 455 305 458 309
+drawLine black 459 309 462 312
+drawLine black 462 312 467 312
+drawLine black 467 312 475 307
+fillPoly black 447 307 455 305 470 291
+fillPoly black 454 303 467 293 470 285
+fillPoly black 454 302 464 287 476 279
+fillPoly black 467 289 465 283 485 270
+fillPoly black 468 282 465 283 456 298
+fillPoly black 456 296 449 304 458 300
+fillPoly black 455 296 461 291 468 290
+fillPoly black 426 290 436 285 434 291
+fillPoly black 439 277 444 269 458 261
+fillPoly black 444 268 467 259 459 258
+fillPoly black 441 248 430 259 425 268
+fillPoly black 425 269 418 278 419 273
+fillPoly black 419 273 428 262 427 266
+fillPoly black 464 293 466 282 480 274
+fillPoly black 465 312 475 307 479 310
+fillPoly black 479 310 476 307 487 293
+fillPoly black 479 309 467 313 471 309
+fillPoly black 470 309 460 311 467 314
+fillPoly black 460 258 488 239 468 259
+fillPoly black 467 282 477 271 485 270
+fillPoly black 477 270 504 253 483 270
+fillPoly black 485 295 497 281 509 273
+fillPoly black 426 213 442 202 454 200
+fillPoly black 460 223 479 217 472 224
+fillPoly black 445 275 457 262 481 246
+fillPoly black 447 264 467 252 487 240
+fillPoly black 446 265 487 241 473 246
+fillPoly black 480 243 494 234 479 245
+fillPoly black 489 260 509 244 501 253
+fillPoly black 499 281 516 260 533 249
+fillPoly black 505 273 536 255 542 241
+fillPoly black 452 200 465 195 445 206
+fillPoly black 539 243 549 235 537 254
+fillPoly black 536 256 542 249 549 232
+fillPoly black 435 190 441 187 435 204
+fillPoly black 483 303 488 293 512 281
+fillPoly black 512 281 508 277 487 294
+fillPoly black 512 282 488 299 493 306
+fillPoly black 487 302 490 307 477 315
+fillPoly black 477 315 475 313 484 309
+fillPoly black 487 305 486 303 480 310
+fillPoly black 486 302 492 309 479 316
+fillPoly black 479 316 476 314 486 308
+fillPoly black 367 250 365 253 379 264
+fillPoly black 509 288 495 308 496 311
+fillPoly black 496 311 511 293 509 289
+fillPoly black 492 310 494 312 483 316
+fillPoly black 483 316 492 313 485 317
+fillPoly black 496 311 492 310 501 301
+fillPoly black 440 187 425 178 435 190
+fillPoly black 424 178 439 187 428 177
+fillPoly black 421 177 425 176 417 175
+fillPoly black 421 178 414 175 426 175
+fillPoly black 405 170 414 174 425 174
+fillPoly black 503 275 517 262 536 254
+fillPoly black 516 265 530 261 542 251
+fillPoly black 530 257 548 234 544 250
+fillPoly black 544 250 545 236 553 232
+fillPoly black 482 227 495 218 510 213
+fillPoly black 497 242 508 228 518 224
+fillPoly black 515 251 526 235 534 231
+fillPoly black 466 206 494 200 478 200
+drawLine black 452 196 474 190
+drawLine black 474 190 463 196
+drawLine black 452 196 440 202
+drawLine black 452 194 439 200
+drawLine black 453 190 481 184
+drawLine black 481 184 502 185
+drawLine black 504 185 528 192
+drawLine black 530 194 547 202
+drawLine black 547 202 562 216
+drawLine black 564 217 573 232
+drawLine black 574 236 576 253
+drawLine black 576 253 567 260
+drawLine black 567 261 547 263
+drawLine black 551 264 534 259
+fillPoly black 536 257 545 252 549 261
+fillPoly black 549 261 545 252 555 233
+fillPoly black 555 233 565 259 549 261
+fillPoly black 564 257 574 252 555 233
+fillPoly black 555 233 570 233 573 252
+fillPoly black 573 252 562 258 566 258
+fillPoly black 457 192 479 186 485 187
+fillPoly black 479 185 502 187 514 191
+fillPoly black 514 191 485 187 479 184
+fillPoly black 479 185 484 185 491 189
+fillPoly black 491 188 479 188 482 185
+fillPoly black 505 188 525 192 546 204
+fillPoly black 523 191 504 186 482 187
+fillPoly black 541 201 562 217 563 221
+fillPoly black 562 217 568 234 561 233
+fillPoly black 554 231 563 218 560 235
+fillPoly black 576 253 573 234 595 219
+fillPoly black 595 219 595 237 575 253
+fillPoly black 595 237 597 235 597 217
+fillPoly black 597 217 593 219 595 240
+fillPoly black 563 217 573 232 597 217
+fillPoly black 563 220 541 200 560 228
+fillPoly black 555 229 552 213 560 220
+fillPoly black 560 220 560 234 554 226

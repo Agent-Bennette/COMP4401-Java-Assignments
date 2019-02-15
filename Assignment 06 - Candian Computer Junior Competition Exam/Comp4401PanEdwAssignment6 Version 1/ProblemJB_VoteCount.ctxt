@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ MAIN\ METHOD\r\n
+comment1.params=input
+comment1.target=java.lang.String\ getVoteResult(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ DATA\ PRINT\ METHOD\ -\ INPUT\ INFO\r\n\ \ \ \ \ \ \ \ \ \ This\ method\ is\ made\ purely\ to\ shorten\ required\ amount\ of\ code\ in\ main\ method.\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ input\:\ \ STRING\ of\ votes\r\n\ \ \ \ \ \ output\:\ STRING\ Winning\ Vote\r\n
+numComments=2

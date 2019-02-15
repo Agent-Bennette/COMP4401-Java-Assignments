@@ -1,0 +1,4 @@
+University-student me speaking here, on behalf of high school student me.
+This is a paint program I programmed in highschool. It's got some nice functionalities, including the ability to save and load previous drawings. It's not serialized in a super fancy way, just as a text file of string which can be re-opened and saved by entering the pre-extension string of the file names. "Mafia 1" is something the anime-watching me drew. but it's an impressive piece of artwork which demonstrates how the tool works.
+
+Anyways, the program can only be started through the main method in PaintProgram.java. Once that's done, there are a couple of prompts that implement no sanity checks, so be careful about just pressing "okay" without entering values (except for the colour one). I recommend putting "white" as the desired background colour, and I recommend loading "Mafia 1.txt" in the loading feature by entering "Mafia 1".

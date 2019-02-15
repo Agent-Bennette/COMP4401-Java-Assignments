@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=input
+comment1.target=java.lang.String\ translate(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Input\ \ \ \:\ \ \ Human\ Formula\r\n\ \ \ \ \ \ Output\ \ \:\ \ \ Java\ Formula\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ Things\ to\ be\ translated\:\r\n\ \ \ \ \ \ Symbol\ \ |\ \ \ Meaning\ \ \ \ \ |\ \ \ Java\ Symbol\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \u00D7\ \ |\ \ \ Multiply\ \ \ \ |\ \ \ *\r\n\ \ \ \ \ \ \u00F7\ \ |\ \ \ Divide\ \ \ \ \ \ |\ \ \ /\r\n\ \ \ \ \ \ ^2\ \ \ \ \ \ |\ \ \ Square\ \ \ \ \ \ |\ \ \ Math.pow(\ y\ ,\ 2\ )\r\n\ \ \ \ \ \ \u221A\ \ |\ \ \ SquareRoot\ \ |\ \ \ Math.pow(\ y\ ,\ 0.5\ )\r\n\ \ \ \ \ \ ^x\ \ \ \ \ \ |\ \ \ Exponent\ \ \ \ |\ \ \ Math.pow(\ y\ ,\ x\ )\r\n\ \ \ \ \ \ %\ \ \ \ \ \ \ |\ \ \ Percent\ \ \ \ \ |\ \ \ /\ 100\r\n\ \ \ \ \ \ 1/x\ \ \ |\ \ \ Flippy?\ \ \ \ \ |\ \ \ Math.pow(\ y\ ,\ -1\ )\r\n
+comment2.params=string1
+comment2.target=java.lang.String[]\ SRMSquare(java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ Special\ Rewriter\ Method\ \:\ Square\r\n
+comment3.params=string1
+comment3.target=java.lang.String[]\ SRMSquareRoot(java.lang.String)
+comment3.text=\r\n\ \ \ \ \ \ Special\ Rewriter\ Method\ \:\ SquareRoot\r\n
+comment4.params=string1\ string2
+comment4.target=java.lang.String[]\ SRMExponent(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ \ \ \ \ \ Special\ Rewriter\ Method\ \:\ Exponent\r\n
+comment5.params=string1
+comment5.target=java.lang.String[]\ SRMFlipper(java.lang.String)
+comment5.text=\r\n\ \ \ \ \ \ Special\ Rewriter\ Method\ \:\ FlippyThingamabob.\ I\ don't\ know.\ Negative\ 1\ power.\r\n
+comment6.params=input
+comment6.target=java.lang.String\ SRMDoubleSpaceRemover(java.lang.String)
+comment6.text=\r\n\ \ \ \ \ \ Special\ Rewriter\ Method\ \:\ SpaceRemoval\r\n
+numComments=7

@@ -1,0 +1,48 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7
+-d
+H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\WriterCal.java
+<---- end of javadoc command ---->
+Loading source file H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\WriterCal.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0
+Building tree for all the packages and classes...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\WriterCal.html...
+H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\Comp4401PanEdwAssignment7_Calculate.java:155: error: not a statement
+        String 
+        ^
+H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\Comp4401PanEdwAssignment7_Calculate.java:155: error: ';' expected
+        String 
+              ^
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\package-frame.html...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\package-summary.html...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\allclasses-frame.html...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\allclasses-noframe.html...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\index.html...
+Generating H:\School\Secondary 4\Secondary 4\Computers\Assignment 07 - Calculator\Comp4401PanEdwAssignment7\doc\stylesheet.css...
+2 errors

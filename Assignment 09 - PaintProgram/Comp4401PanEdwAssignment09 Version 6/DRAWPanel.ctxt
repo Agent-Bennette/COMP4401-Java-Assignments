@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DRAWPanel()
+comment0.text=\r\n\ \ Constructor\ Method\ of\ DRAWPanel\r\n
+comment1.params=data
+comment1.target=void\ setData(DRAWData)
+comment1.text=\r\n\ \ Setter\ Method\r\n\ \ \ \ \ \ Get\ DRAWData\ information\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ input\ \ \ \:\ \ \ DRAWData\ data\r\n\ \ \ \ \ \ \ \ \ \ output\ \ \:\ \ \ void\r\n
+comment2.params=view
+comment2.target=void\ setPreview(boolean)
+comment2.text=\r\n\ \ Setter\ Method\r\n\ \ \ \ \ \ Set\ whether\ or\ not\ the\ board\ will\ draw\ an\ additional\ shape\ -\ the\ one\ that's\ being\ drawn\ live\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ input\ \ \ \:\ \ \ boolean\ view\ or\ not\ view?\r\n\ \ \ \ \ \ \ \ \ \ output\ \ \:\ \ \ void\r\n
+comment3.params=width\ height
+comment3.target=void\ setDimensionsPreference(int,\ int)
+comment3.text=\r\n\ \ Setter\ Method\r\n\ \ \ \ \ \ Input\ the\ dimensions\ of\ this\ panel.\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ input\ \ \ \:\ \ \ int\ width\ ,\ int\ height\r\n\ \ \ \ \ \ \ \ \ \ outpu\ \ \ \:\ \ \ void\r\n
+comment4.params=colour
+comment4.target=void\ setBackgroundColourPreference(java.awt.Color)
+comment4.text=\r\n\ \ Setter\ Method\r\n\ \ \ \ \ \ Set\ the\ background\ colour\ of\ the\ board.\r\n
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment5.text=\r\n\ \ Operation\ Method\r\n\ \ \ \ \ \ Draw\ all\ shapes\ on\ the\ drawing\ board\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ input\ \ \ \:\ \ \ void\r\n\ \ \ \ \ \ \ \ \ \ output\ \ \:\ \ \ void\r\n
+numComments=6

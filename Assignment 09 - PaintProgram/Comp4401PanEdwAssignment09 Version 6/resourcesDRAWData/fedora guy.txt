@@ -1,0 +1,101 @@
+fillPoly black 259 70 245 175 459 37
+fillPoly black 459 37 494 123 244 175
+fillPoly black 187 208 518 130 552 81
+fillPoly black 488 142 497 212 297 187
+fillPoly black 430 201 496 211 494 273
+fillPoly black 374 188 482 203 481 252
+fillPoly black 340 191 375 196 389 247
+fillPoly black 378 218 416 191 353 183
+fillPoly black 486 144 503 199 495 269
+fillPoly black 486 144 503 198 461 176
+fillPoly black 482 178 487 141 503 197
+fillPoly black 264 240 273 294 271 240
+fillPoly black 271 240 275 278 272 289
+fillPoly black 264 240 278 236 281 271
+fillPoly black 281 271 272 290 269 237
+fillPoly black 283 238 287 266 297 251
+fillPoly black 297 251 295 241 284 239
+fillPoly black 284 237 331 228 295 242
+fillPoly black 300 244 301 248 397 218
+fillPoly black 397 218 341 228 301 244
+fillPoly black 343 233 415 225 392 218
+fillPoly black 409 223 441 248 429 249
+fillPoly black 429 249 391 218 412 225
+fillPoly black 268 361 258 411 307 364
+fillPoly black 269 362 268 347 282 363
+fillPoly black 282 363 279 346 266 347
+fillPoly black 307 364 280 362 435 308
+fillPoly black 435 308 265 401 298 358
+fillPoly black 260 397 251 434 330 363
+fillPoly black 268 315 267 327 333 311
+drawLine black 269 339 302 330  
+drawLine black 251 193 251 214  
+drawLine black 251 214 267 240  
+drawLine black 268 257 251 296  
+drawLine black 251 296 255 304  
+drawLine black 255 304 270 309  
+drawLine black 270 309 268 316  
+fillPoly black 410 321 447 305 445 287
+fillPoly black 392 323 433 299 416 316
+fillPoly black 439 294 445 265 451 287
+fillPoly black 451 287 447 304 444 286
+fillPoly black 283 400 413 318 313 359
+drawLine black 357 371 393 369  
+drawLine black 394 377 390 427  
+fillPoly black 452 393 239 542 452 443
+fillPoly black 459 426 457 391 513 408
+fillPoly black 513 408 529 353 455 392
+fillPoly white 217 478 326 440 240 593
+fillPoly white 247 469 342 433 328 563
+fillPoly white 326 563 234 444 233 572
+fillPoly black 338 472 275 576 337 496
+fillPoly black 419 458 325 510 344 472
+fillPoly black 366 476 302 540 339 483
+fillPoly black 369 480 297 547 339 478
+fillPoly black 330 500 276 574 331 515
+fillPoly black 327 519 385 476 340 474
+fillPoly white 374 441 291 521 329 436
+fillPoly black 276 573 289 557 275 593
+fillPoly black 514 406 528 354 546 355
+drawLine black 513 412 527 447  
+drawLine black 368 451 376 428  
+fillPoly white 381 413 412 396 389 433
+drawLine black 376 428 513 346  
+drawLine black 513 345 518 357  
+drawLine black 391 416 378 427  
+drawLine black 513 346 493 354  
+fillPoly white 528 334 548 414 579 325
+fillPoly white 527 334 582 382 575 447
+fillPoly white 572 336 519 338 595 495
+fillPoly black 535 371 512 406 540 388
+fillPoly black 520 384 509 405 522 398
+fillPoly black 515 403 540 388 512 408
+drawLine black 538 388 561 461  
+drawLine black 527 447 472 473  
+drawLine black 472 473 430 543  
+drawLine black 431 544 427 587  
+fillPoly white 534 393 550 377 565 479
+drawLine black 527 446 562 455  
+drawLine black 562 455 582 478  
+drawLine black 582 477 538 383  
+drawLine black 527 446 506 396  
+drawLine black 583 477 590 528  
+drawLine black 590 528 581 593  
+drawLine black 427 588 428 594  
+fillPoly black 268 225 269 232 331 199
+fillPoly black 493 268 493 318 460 224
+drawLine yellow 447 401 447 440 427 445
+drawLine yellow 447 440 415 454 428 438
+drawLine yellow 415 454 378 476 430 433
+drawLine yellow 378 476 339 504  
+drawLine yellow 339 504 318 522  
+drawLine yellow 318 522 298 544  
+drawLine yellow 298 544 287 561  
+drawLine yellow 463 419 509 404  
+drawLine yellow 509 404 536 387  
+drawLine yellow 536 387 538 381  
+drawLine black 493 347 486 285  
+fillPoly white 348 367 428 344 374 389
+fillPoly white 353 356 425 357 395 414
+drawLine black 393 412 391 382  
+drawLine black 391 382 383 363  

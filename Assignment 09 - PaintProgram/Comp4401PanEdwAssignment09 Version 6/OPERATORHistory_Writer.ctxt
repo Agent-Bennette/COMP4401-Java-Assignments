@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OPERATORHistory_Writer()
+comment0.text=\r\n\ \ Constructor\ method.\r\n\ \ \ \ \ \ Alert\ the\ user\ /\ developper\ that\ the\ file\ saving\ operations\ have\ begun.\r\n
+comment1.params=input
+comment1.target=void\ Save(DRAWData)
+comment1.text=\r\n\ \ OPERATION\ Method\r\n\ \ \ \ \ \ SAVE\ HISTORY\ into\ .txt\ file\r\n
+comment2.params=
+comment2.target=void\ setDirectory()
+comment2.text=\r\n\ \ SETTER\ Method\r\n\ \ \ \ \ \ Set\ the\ directory\ of\ the\ file\ name\r\n
+comment3.params=
+comment3.target=int\ SRMNameCheck()
+comment3.text=\r\n\ \ SRM\ NAME\ CHECKER\r\n\ \ \ \ \ \ Subroutine\ Method\ for\ checking\ if\ a\ string\ would\ be\ safe\ for\ file\ directory\ usage.\r\n
+numComments=4

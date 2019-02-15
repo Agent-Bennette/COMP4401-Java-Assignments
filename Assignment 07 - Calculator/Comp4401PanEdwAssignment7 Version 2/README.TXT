@@ -1,0 +1,2 @@
+The program can be run through the main method. You use it like any other calculator!
+This is Version 2, which means instead of writing a slave class which is literally generated for the sole purpose of creating a new class which translates a string into a java expression that is then compiled and executed to return a double (nuts, right? Very inefficient!) there is a decision tree for completing calcluations as the program goes along. Or something like that.

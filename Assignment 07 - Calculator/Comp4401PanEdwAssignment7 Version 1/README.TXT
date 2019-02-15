@@ -1,0 +1,3 @@
+Here's another one of my really old projects where I tried doing something cooled, and succeeded on the cool part of things, but failed on the functionality!
+
+The program can be run through the main method. You use it like any other calculator! The only issue is it can only complete one calculation! This is Version 1, which means it writes a slave class which is literally generated for the sole purpose of creating a new class which translates a string into a java expression that is then compiled and executed to return a double! Incredibly inefficient! But as a highschool assignment, it did give me the opportunity to learn how to make java write other files, and even compile them. This was indeed a weird thing.

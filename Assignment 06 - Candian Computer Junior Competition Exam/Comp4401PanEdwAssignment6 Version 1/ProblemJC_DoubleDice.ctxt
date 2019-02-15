@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ MAIN\ METHOD\r\n
+comment1.params=
+comment1.target=int\ getDiceRoll()
+comment1.text=\r\n\ \ \ \ \ \ GETTER\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ DICE\ ROLL\ VALUE\r\n
+comment2.params=
+comment2.target=void\ setResetPoints()
+comment2.text=\r\n\ \ \ \ \ \ RESET\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ SET\ ALL\ POINTS\ TO\ 100\r\n
+comment3.params=diceRollA\ diceRollB
+comment3.target=void\ setPointsPlayers(int,\ int)
+comment3.text=\r\n\ \ \ \ \ \ SETTER\ METHOD\r\n\ \ \ \ \ \ \ \ \ \ CHANGE\ VALUE\ OF\ POINTS\ OF\ PLAYERS\ BASED\ ON\ ROLLED\ DIE.\r\n
+numComments=4
